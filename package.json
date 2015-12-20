@@ -52,7 +52,7 @@
     "sails",
     "sails.js"
   ],
-  "repository": "git://github.com/balderdashy/waterline.git",
+  "repository": "git://github.com/cazulu/waterline.git",
   "main": "./lib/waterline",
   "scripts": {
     "test": "make test",
