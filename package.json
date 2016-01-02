@@ -21,12 +21,12 @@
     "anchor": "~0.11.0",
     "async": "~1.2.0",
     "bluebird": "~3.1.1",
-    "deep-diff": "~0.3.0",
+    "deep-diff": "~0.3.3",
     "lodash": "~3.10.1",
     "switchback": "~2.0.0",
     "prompt": "~0.2.14",
     "switchback": "~2.0.0",
-    "waterline-criteria": "~0.11.1",
+    "waterline-criteria": "~0.11.2",
     "waterline-schema": "0.2.0-rc2"
   },
   "devDependencies": {
